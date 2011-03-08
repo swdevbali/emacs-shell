@@ -1,0 +1,5 @@
+#AutoHotKey will sit on memory and execute your script
+
+= Web Link =
+
+[www.autohotkey.com AutoHotKey homepage]
