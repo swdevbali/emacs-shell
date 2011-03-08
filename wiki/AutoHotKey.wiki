@@ -2,4 +2,4 @@
 
 = Web Link =
 
-[www.autohotkey.com AutoHotKey homepage]
+[http://www.autohotkey.com AutoHotKey homepage]
